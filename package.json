@@ -1,0 +1,13 @@
+{
+  "name": "emojis",
+  "version": "1.0.0",
+  "description": "Ejercicio sass/css de emojis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass ./src/sass/styles.scss ./public/css/styles.css",
+    "sass-w": "sass --watch ./src/sass/styles.scss ./public/css/styles.css"
+  },
+  "author": "oscar",
+  "license": "ISC"
+}
