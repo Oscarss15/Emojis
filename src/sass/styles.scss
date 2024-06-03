@@ -1,17 +1,21 @@
 .maincont{
-    display: grid;
-    grid-template-columns: 200px 200px 200px 200px  ;
-    gap: 10px;
-    
+
     padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+ 
   }
   
   .contemoji {
-    background-color: red;
+   
     text-align: center;
     padding: 20px 0;
     font-size: 30px;
-    height: 80px;
+    height: 70px;
+    margin:20px;
+    
+   
   }
   
   #box1 {
@@ -19,6 +23,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
+    
    
   }
   #box2 {
@@ -26,6 +32,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
+    
     
   }
   #box3 {
@@ -33,6 +41,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
     
   }
   #box4 {
@@ -40,6 +49,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
    
   }
   #box5 {
@@ -47,6 +57,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
     
   }
   #box6 {
@@ -54,6 +65,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
     
   }
   #box7 {
@@ -61,6 +73,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
    
   }
   #box8 {
@@ -68,6 +81,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
     
   }
   #box9 {
@@ -75,6 +89,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
     
   }
   #box10 {
@@ -82,6 +97,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
     
   }
   #box11 {
@@ -89,6 +105,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
     
   }
   #box12 {
@@ -96,6 +113,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
     
   }
   #box13 {
@@ -103,6 +121,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
     
   }
   #box14 {
@@ -110,5 +129,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 180px;
     
   }
